@@ -22,4 +22,4 @@ This endpoint returns a JSON object containing the wallpaper's info.
 
 ## Try it Out
 
-https://bing.shangzhenyang.com/
+https://bing.lightsdark.com/
